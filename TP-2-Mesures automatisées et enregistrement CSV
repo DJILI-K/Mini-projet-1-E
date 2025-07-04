@@ -1,1 +1,17 @@
+Objectifs pédagogiques :
+•	- Automatiser la prise de 7 mesures espacées de 30 secondes
+•	- Enregistrer les mesures dans un fichier CSV avec horodatage
+
+Contenu technique :
+•	- Bibliothèques : time, datetime, csv
+•	- Structure de fichier CSV : id, température, humidité, date
+
+Instructions :
+5.	- Créer le script mesures_csv.py
+6.	- Lire les données toutes les 30 secondes (7 fois)
+7.	- Enregistrer les données dans un fichier mesures.csv
+8.	- Utiliser un horodatage pour chaque ligne
+
+Livrable :
+Fichier mesures.csv contenant les données
 
