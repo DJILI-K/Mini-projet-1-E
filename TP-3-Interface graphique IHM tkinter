@@ -1,1 +1,18 @@
+Objectifs pédagogiques :
+•	- Créer une interface graphique avec tkinter
+•	- Permettre le lancement de la mesure depuis l'IHM
+
+Contenu technique :
+•	- Widgets : Button, Label
+•	- Fonctionnement de mainloop()
+•	- Appel de fonctions avec threading
+
+Instructions :
+9.	- Créer le script ihm_dht22.py
+10.	- Ajouter un bouton 'Lancer mesures'
+11.	- Afficher l'état 'Mesures en cours / Mesures terminées'
+12.	- Connecter l'IHM au script mesures_csv.py
+
+Livrable :
+Capture d'écran de l'IHM fonctionnelle
 
