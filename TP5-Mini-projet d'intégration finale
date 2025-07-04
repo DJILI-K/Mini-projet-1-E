@@ -1,0 +1,16 @@
+Objectifs pédagogiques :
+•	- Assembler toutes les composantes du projet
+•	- Réaliser un test complet de la chaîne de mesure
+
+Contenu technique :
+•	- Automatisation complète via l'IHM
+•	- Acquisition → CSV → Transfert SSH
+
+Instructions :
+17.	- Lancer l'IHM
+18.	- Effectuer une session de 7 mesures
+19.	- Transférer le fichier généré via SSH
+20.	- Vérifier le fichier sur le PC-BDD
+
+Livrable :
+Projet complet fonctionnel avec code + démonstration orale courte
