@@ -1,0 +1,16 @@
+Objectifs pédagogiques :
+•	- Savoir câbler un capteur DHT22
+•	- Lire température et humidité via Python
+
+Contenu technique :
+•	- Câblage GPIO
+•	- Bibliothèque Python Adafruit_DHT
+
+Instructions :
+1.	- Installer Adafruit_DHT avec `pip install Adafruit_DHT`
+2.	- Connecter le capteur : VCC → 3.3V, GND → GND, DATA → GPIO4
+3.	- Créer le script lecture_dht.py
+4.	- Exécuter le script et vérifier les mesures
+
+Livrable :
+Un compte rendu détailler avec, script, procédures, capture d'écran ou sortie console montrant la lecture du capteur
