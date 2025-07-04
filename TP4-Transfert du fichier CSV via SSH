@@ -1,0 +1,16 @@
+Objectifs pédagogiques :
+•	- Transférer le fichier CSV vers un PC distant via SSH
+•	- Utiliser scp ou la bibliothèque paramiko
+
+Contenu technique :
+•	- Commande scp ou bibliothèque Python paramiko
+•	- Connexion WiFi et authentification SSH
+
+Instructions :
+13.	- Configurer l'accès SSH à un PC distant
+14.	- Créer le script transfert_ssh.py
+15.	- Transférer le fichier mesures.csv dans le dossier Documents du PC distant
+16.	- Vérifier la présence du fichier sur le PC distant
+
+Livrable :
+Preuve du transfert réussi (capture d'écran ou confirmation dans le terminal
